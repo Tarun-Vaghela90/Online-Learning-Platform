@@ -1,0 +1,13 @@
+
+  
+  .CourseCard {
+    width: 400px;
+    
+  }
+  
+  .cardActions {
+    display: flex;
+    justify-content: flex-end;
+    padding: 16px; /* Optional: to add some padding around the button */
+  }
+  
